@@ -14,7 +14,7 @@ __consumer_offsets 9 0
 __consumer_offsets 46 0
 my_source_connect_statuses 0 24
 my_connect_offsets 20 0
-pg1.public.trips 0 1124
+pg1.public.trips 0 1152
 __consumer_offsets 25 0
 my_connect_offsets 12 0
 __consumer_offsets 35 0
@@ -36,13 +36,13 @@ __consumer_offsets 36 0
 __consumer_offsets 42 0
 __consumer_offsets 3 0
 __consumer_offsets 18 0
-trackingtj 0 332815
+trackingtj 0 347994
 __consumer_offsets 37 0
-my_connect_offsets 16 80
+my_connect_offsets 16 91
 __consumer_offsets 15 0
 __consumer_offsets 24 0
 my_connect_configs 0 3
-pg1.public.buses 0 1244
+pg1.public.buses 0 1246
 my_connect_offsets 18 0
 my_source_connect_statuses 1 0
 my_connect_offsets 10 0
@@ -71,7 +71,7 @@ __consumer_offsets 20 0
 __consumer_offsets 0 0
 __consumer_offsets 44 0
 __consumer_offsets 39 0
-__consumer_offsets 12 2531
+__consumer_offsets 12 2665
 __consumer_offsets 45 0
 my_source_connect_statuses 3 31
 __consumer_offsets 1 0
