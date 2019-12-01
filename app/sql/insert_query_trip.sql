@@ -1,0 +1,1 @@
+INSERT INTO trips VALUES ('{trip_id}','{bus_code}','{koridor}', CURRENT_TIMESTAMP) ON CONFLICT (trip_id,bus_code) DO NOTHING;

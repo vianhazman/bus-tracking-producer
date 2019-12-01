@@ -1,0 +1,8 @@
+endpoint: http://202.51.117.212/transjakarta_bus_ops_api_unified_with_tripdata_master.php
+kafka_host: dummy-producer_kafka1_1:19092
+database:
+  host: dummy-producer_pg-docker_1
+  db: bus_trip
+  username: postgres
+  password: postgres
+  port: 5432

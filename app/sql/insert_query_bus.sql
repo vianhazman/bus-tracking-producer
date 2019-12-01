@@ -1,0 +1,1 @@
+INSERT INTO buses VALUES ('{bus_code}','{color}',CURRENT_TIMESTAMP) ON CONFLICT (bus_code) DO NOTHING;
