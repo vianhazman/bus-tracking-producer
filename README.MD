@@ -13,3 +13,13 @@ Initiate DB using
 ```angular2
 ./utils/init_table.sh
 ```
+
+Project Structure:
+![Alt text](https://gist.githubusercontent.com/vianhazman/f465d9971ba101dfa39a3cfcd3eb65c0/raw/cf3be2ccaa16a2df6d447922565a418d1f907c23/System%2520Diagram.png "Overall Project")
+
+Services to run:
+ - Zookeeper
+ - Kafka Broker
+ - Airflow
+ - PostgreSQL with wal2json
+ - Debezium
